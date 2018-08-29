@@ -4,3 +4,5 @@ flour
 butter
 sugar
 apples
+sugar
+milk

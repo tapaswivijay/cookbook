@@ -6,3 +6,4 @@ sugar
 apples
 sugar
 milk
+salt
